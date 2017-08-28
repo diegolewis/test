@@ -1,0 +1,5 @@
+---
+applications:
+ - name: MIDA1
+   random-route: true
+   memory: 256M
